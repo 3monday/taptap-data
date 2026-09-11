@@ -1,0 +1,1823 @@
+{
+  "date": "2026-09-11",
+  "source": "TapTap",
+  "collected_at": "2026-09-11 10:02:52",
+  "boards": {
+    "reserve": [
+      {
+        "rank": 1,
+        "title": "未眠野",
+        "app_id": 894924,
+        "company": "悦然互动",
+        "reserve": 53256,
+        "score": "8.0"
+      },
+      {
+        "rank": 2,
+        "title": "代号:暗火",
+        "app_id": 824682,
+        "company": "黯火小队工作室",
+        "reserve": 40184,
+        "score": "8.9"
+      },
+      {
+        "rank": 3,
+        "title": "闪耀吧！噜咪",
+        "app_id": 784122,
+        "company": "哔哩哔哩游戏",
+        "reserve": 263950,
+        "score": "8.8"
+      },
+      {
+        "rank": 4,
+        "title": "伯吉的温馨厨房",
+        "app_id": 882850,
+        "company": "萝卜游戏工作室",
+        "reserve": 480927,
+        "score": "8.8"
+      },
+      {
+        "rank": 5,
+        "title": "拳皇·命运",
+        "app_id": 868037,
+        "company": "Wanda Game",
+        "reserve": 36233,
+        "score": "8.8"
+      },
+      {
+        "rank": 6,
+        "title": "烽火望长安",
+        "app_id": 716232,
+        "company": "万紫游戏",
+        "reserve": 37726,
+        "score": "8.0"
+      },
+      {
+        "rank": 7,
+        "title": "星途天城",
+        "app_id": 893924,
+        "company": "广州春芒网络科技有限公司",
+        "reserve": 68107,
+        "score": "8.5"
+      },
+      {
+        "rank": 8,
+        "title": "伊莫",
+        "app_id": 748031,
+        "company": "爪印工作室",
+        "reserve": 1859518,
+        "score": "8.6"
+      },
+      {
+        "rank": 9,
+        "title": "白银之城",
+        "app_id": 754910,
+        "company": "乐元素",
+        "reserve": 1832205,
+        "score": "8.6"
+      },
+      {
+        "rank": 10,
+        "title": "星布谷地",
+        "app_id": 776320,
+        "company": "miHoYo",
+        "reserve": 1201666,
+        "score": "8.1"
+      },
+      {
+        "rank": 11,
+        "title": "果灵突袭(TapTap测试版)",
+        "app_id": 879127,
+        "company": "西安果核互动",
+        "reserve": 9663,
+        "score": "10"
+      },
+      {
+        "rank": 12,
+        "title": "无限大",
+        "app_id": 383874,
+        "company": "网易游戏",
+        "reserve": 3686317,
+        "score": "8.3"
+      },
+      {
+        "rank": 13,
+        "title": "粒粒的小人国",
+        "app_id": 772909,
+        "company": "腾讯",
+        "reserve": 2517853,
+        "score": "9.3"
+      },
+      {
+        "rank": 14,
+        "title": "蓝色星原：旅谣",
+        "app_id": 593829,
+        "company": "蛮奈网络",
+        "reserve": 2285897,
+        "score": "8.9"
+      },
+      {
+        "rank": 15,
+        "title": "追逐卡蕾多",
+        "app_id": 738083,
+        "company": "腾讯",
+        "reserve": 242126,
+        "score": "7.8"
+      },
+      {
+        "rank": 16,
+        "title": "勇士之心",
+        "app_id": 844803,
+        "company": "广州亿梦科技有限公司",
+        "reserve": 10022,
+        "score": "7.8"
+      },
+      {
+        "rank": 17,
+        "title": "七界梦谭",
+        "app_id": 611414,
+        "company": "飞光阁工作室",
+        "reserve": 1541405,
+        "score": "9.1"
+      },
+      {
+        "rank": 18,
+        "title": "篮球少女：飞跃巅峰",
+        "app_id": 741112,
+        "company": "广州灵犀互动娱乐有限公司",
+        "reserve": 106361,
+        "score": "9.1"
+      },
+      {
+        "rank": 19,
+        "title": "失乐枷锁",
+        "app_id": 882858,
+        "company": "月环网络",
+        "reserve": 89362,
+        "score": "8.6"
+      },
+      {
+        "rank": 20,
+        "title": "龙岛异兽起源",
+        "app_id": 805993,
+        "company": "微乐游戏",
+        "reserve": 2144287,
+        "score": "8.8"
+      },
+      {
+        "rank": 21,
+        "title": "万界绮园：逐光筑梦手札",
+        "app_id": 775574,
+        "company": "游萤互娱",
+        "reserve": 90495,
+        "score": "9.2"
+      },
+      {
+        "rank": 22,
+        "title": "星海归旅人",
+        "app_id": 883223,
+        "company": "上海游碧曜",
+        "reserve": 5235,
+        "score": "8.1"
+      },
+      {
+        "rank": 23,
+        "title": "星眠",
+        "app_id": 839063,
+        "company": "北京沐言星河科技有限公司",
+        "reserve": 86517,
+        "score": "9.5"
+      },
+      {
+        "rank": 24,
+        "title": "他予回声",
+        "app_id": 807613,
+        "company": "乐元素",
+        "reserve": 679611,
+        "score": "9.2"
+      },
+      {
+        "rank": 25,
+        "title": "代号U1（TapTap测试版）",
+        "app_id": 871312,
+        "company": "广州四三九九信息科技有限公司",
+        "reserve": 7578,
+        "score": "8.5"
+      },
+      {
+        "rank": 26,
+        "title": "应征入伍",
+        "app_id": 876286,
+        "company": "玄鑫工作室",
+        "reserve": 79833,
+        "score": "8.8"
+      },
+      {
+        "rank": 27,
+        "title": "剑隐侠踪录",
+        "app_id": 798735,
+        "company": "快哉风",
+        "reserve": 324184,
+        "score": "8.9"
+      },
+      {
+        "rank": 28,
+        "title": "望月",
+        "app_id": 386208,
+        "company": "望月游戏研究院",
+        "reserve": 2585425,
+        "score": "8.8"
+      },
+      {
+        "rank": 29,
+        "title": "元夜十二谈",
+        "app_id": 808743,
+        "company": "上海游卡",
+        "reserve": 242707,
+        "score": "9.0"
+      },
+      {
+        "rank": 30,
+        "title": "三国志：王道天下",
+        "app_id": 824115,
+        "company": "哔哩哔哩游戏",
+        "reserve": 133193,
+        "score": "8.7"
+      },
+      {
+        "rank": 31,
+        "title": "光阴之外",
+        "app_id": 805623,
+        "company": "BQ Game",
+        "reserve": 26157,
+        "score": "9.3"
+      },
+      {
+        "rank": 32,
+        "title": "绿梦：时空之声",
+        "app_id": 237561,
+        "company": "绿梦工作室",
+        "reserve": 1156327,
+        "score": "9.0"
+      },
+      {
+        "rank": 33,
+        "title": "对峙：交锋时刻",
+        "app_id": 880259,
+        "company": "梧桐",
+        "reserve": 293639,
+        "score": "9.3"
+      },
+      {
+        "rank": 34,
+        "title": "诡影藏锋",
+        "app_id": 874444,
+        "company": "网易游戏",
+        "reserve": 403463,
+        "score": "9.1"
+      },
+      {
+        "rank": 35,
+        "title": "约定之日",
+        "app_id": 387285,
+        "company": "上海星烁互娱",
+        "reserve": 195166,
+        "score": "8.9"
+      },
+      {
+        "rank": 36,
+        "title": "甄嬛传",
+        "app_id": 793980,
+        "company": "雷霆游戏",
+        "reserve": 68453,
+        "score": "8.1"
+      },
+      {
+        "rank": 37,
+        "title": "巫奇魔法学院 Witchbrook",
+        "app_id": 902203,
+        "company": "Chucklefish Limited",
+        "reserve": 19150,
+        "score": "9.1"
+      },
+      {
+        "rank": 38,
+        "title": "最后的任务",
+        "app_id": 854415,
+        "company": "等等工作室",
+        "reserve": 11258,
+        "score": "9.9"
+      },
+      {
+        "rank": 39,
+        "title": "苏丹的游戏",
+        "app_id": 866366,
+        "company": "Game Tree",
+        "reserve": 241460,
+        "score": "9.1"
+      },
+      {
+        "rank": 40,
+        "title": "我的勇者：末影城",
+        "app_id": 764632,
+        "company": "魔力数娱",
+        "reserve": 76863,
+        "score": "8.3"
+      },
+      {
+        "rank": 41,
+        "title": "源初之结",
+        "app_id": 917670,
+        "company": "miHoYo",
+        "reserve": 133288,
+        "score": "9.1"
+      },
+      {
+        "rank": 42,
+        "title": "小小英杰：合战天下",
+        "app_id": 864394,
+        "company": "上海电光火石科技有限公司",
+        "reserve": 9508,
+        "score": "7.2"
+      },
+      {
+        "rank": 43,
+        "title": "崩坏：因缘精灵",
+        "app_id": 753921,
+        "company": "miHoYo",
+        "reserve": 2179806,
+        "score": "8.2"
+      },
+      {
+        "rank": 44,
+        "title": "头号禁区",
+        "app_id": 663394,
+        "company": "沐瞳",
+        "reserve": 432997,
+        "score": "7.6"
+      },
+      {
+        "rank": 45,
+        "title": "小猫咪大城市",
+        "app_id": 742050,
+        "company": "嬉皮狗工作室",
+        "reserve": 206120,
+        "score": "9.0"
+      },
+      {
+        "rank": 46,
+        "title": "外婆的手账本",
+        "app_id": 871924,
+        "company": "伴心制作组",
+        "reserve": 130517,
+        "score": "8.3"
+      },
+      {
+        "rank": 47,
+        "title": "代号：梦核（TapTap测试版）",
+        "app_id": 817406,
+        "company": "三点饮茶工作室",
+        "reserve": 446847,
+        "score": "8.3"
+      },
+      {
+        "rank": 48,
+        "title": "舒舒服服小岛时光",
+        "app_id": 729276,
+        "company": "心动",
+        "reserve": 270618,
+        "score": "9.5"
+      },
+      {
+        "rank": 49,
+        "title": "古龙群侠录",
+        "app_id": 774665,
+        "company": "指战网络",
+        "reserve": 39862,
+        "score": "7.2"
+      },
+      {
+        "rank": 50,
+        "title": "代号：神不言",
+        "app_id": 849146,
+        "company": "祖龙",
+        "reserve": 631082,
+        "score": "9.0"
+      },
+      {
+        "rank": 51,
+        "title": "沐沐风海岛",
+        "app_id": 807133,
+        "company": "沐沐风",
+        "reserve": 5333,
+        "score": "10"
+      },
+      {
+        "rank": 52,
+        "title": "归环",
+        "app_id": 731238,
+        "company": "萨罗斯工作室",
+        "reserve": 778894,
+        "score": "8.0"
+      },
+      {
+        "rank": 53,
+        "title": "纵横修仙界",
+        "app_id": 860511,
+        "company": "极致游戏",
+        "reserve": 31380,
+        "score": "9.2"
+      },
+      {
+        "rank": 54,
+        "title": "仙境传说3",
+        "app_id": 886599,
+        "company": "哔哩哔哩游戏",
+        "reserve": 48600,
+        "score": "9.3"
+      },
+      {
+        "rank": 55,
+        "title": "芙娅之魂",
+        "app_id": 737243,
+        "company": "方尖碑",
+        "reserve": 306080,
+        "score": "8.0"
+      },
+      {
+        "rank": 56,
+        "title": "猫仙札",
+        "app_id": 909952,
+        "company": "新闻消息",
+        "reserve": 20830,
+        "score": "8.7"
+      },
+      {
+        "rank": 57,
+        "title": "森盒",
+        "app_id": 777514,
+        "company": "生境科技",
+        "reserve": 290243,
+        "score": "9.2"
+      },
+      {
+        "rank": 58,
+        "title": "夺冠！国足百年传承计划",
+        "app_id": 914584,
+        "company": "OneForAll工作室",
+        "reserve": 1107,
+        "score": "9.5"
+      },
+      {
+        "rank": 59,
+        "title": "热力无限赛车",
+        "app_id": 866854,
+        "company": "广州金科文化科技有限公司",
+        "reserve": null,
+        "score": "7.8"
+      },
+      {
+        "rank": 60,
+        "title": "街机枪神",
+        "app_id": 895109,
+        "company": "模拟一切工作室",
+        "reserve": 7889,
+        "score": "9.4"
+      },
+      {
+        "rank": 61,
+        "title": "消消奇遇",
+        "app_id": 820759,
+        "company": "广州虎牙信息科技有限公司",
+        "reserve": 577,
+        "score": "0"
+      },
+      {
+        "rank": 62,
+        "title": "愤怒的小鸟：经典归来",
+        "app_id": 35,
+        "company": "萌货研究所",
+        "reserve": 183761,
+        "score": "8.7"
+      },
+      {
+        "rank": 63,
+        "title": "宝石战争",
+        "app_id": 766061,
+        "company": "小五工作室",
+        "reserve": 71863,
+        "score": "9.3"
+      },
+      {
+        "rank": 64,
+        "title": "霓虹深渊2",
+        "app_id": 751308,
+        "company": "Veewo Games",
+        "reserve": 98225,
+        "score": "8.4"
+      },
+      {
+        "rank": 65,
+        "title": "米塔",
+        "app_id": 738556,
+        "company": "IndieArk",
+        "reserve": 65454,
+        "score": "9.3"
+      },
+      {
+        "rank": 66,
+        "title": "集合！浆果镇",
+        "app_id": 839552,
+        "company": "朝夕光年",
+        "reserve": 153547,
+        "score": "8.8"
+      },
+      {
+        "rank": 67,
+        "title": "异人之下",
+        "app_id": 730674,
+        "company": "腾讯",
+        "reserve": 2174864,
+        "score": "7.6"
+      },
+      {
+        "rank": 68,
+        "title": "爆裂防线",
+        "app_id": 895385,
+        "company": "上海木叶网络科技有限公司",
+        "reserve": 8517,
+        "score": "9.2"
+      },
+      {
+        "rank": 69,
+        "title": "龙吟山海",
+        "app_id": 861307,
+        "company": "卡雷豆工作室",
+        "reserve": 983,
+        "score": "7.2"
+      },
+      {
+        "rank": 70,
+        "title": "小小军团：合战三国",
+        "app_id": 908910,
+        "company": "分瞬网络科技（上海）有限公司",
+        "reserve": 11906,
+        "score": "9.8"
+      },
+      {
+        "rank": 71,
+        "title": "代号：巫师之路",
+        "app_id": 759959,
+        "company": "巫师协会",
+        "reserve": 62512,
+        "score": "8.5"
+      },
+      {
+        "rank": 72,
+        "title": "猛兽派对",
+        "app_id": 200818,
+        "company": "Recreate Games",
+        "reserve": 7495650,
+        "score": "8.6"
+      },
+      {
+        "rank": 73,
+        "title": "破晓之前",
+        "app_id": 835638,
+        "company": "薄荷兔游戏",
+        "reserve": 60147,
+        "score": "5.8"
+      },
+      {
+        "rank": 74,
+        "title": "三国苍野录",
+        "app_id": 785564,
+        "company": "心动",
+        "reserve": 3553,
+        "score": "7.2"
+      },
+      {
+        "rank": 75,
+        "title": "纸楼",
+        "app_id": 918218,
+        "company": "地雾西莲土工作室",
+        "reserve": 9543,
+        "score": "10"
+      },
+      {
+        "rank": 76,
+        "title": "仙战西游",
+        "app_id": 836163,
+        "company": "蝉翼游戏",
+        "reserve": 6874,
+        "score": "8.8"
+      },
+      {
+        "rank": 77,
+        "title": "诡秘之主：愚者",
+        "app_id": 865791,
+        "company": "祖龙游戏",
+        "reserve": 614491,
+        "score": "9.5"
+      },
+      {
+        "rank": 78,
+        "title": "饼干人联盟",
+        "app_id": 773516,
+        "company": "儒意景秀",
+        "reserve": 159760,
+        "score": "9.0"
+      },
+      {
+        "rank": 79,
+        "title": "可口的咖啡",
+        "app_id": 741827,
+        "company": "新闻消息",
+        "reserve": 564181,
+        "score": "8.5"
+      },
+      {
+        "rank": 80,
+        "title": "暮色大师",
+        "app_id": 876252,
+        "company": "peropero",
+        "reserve": 86038,
+        "score": "9.3"
+      },
+      {
+        "rank": 81,
+        "title": "代号：Closet",
+        "app_id": 802014,
+        "company": "船岛游戏",
+        "reserve": 75208,
+        "score": "9.8"
+      },
+      {
+        "rank": 82,
+        "title": "修仙时代",
+        "app_id": 231977,
+        "company": "腾讯",
+        "reserve": 413667,
+        "score": "8.8"
+      },
+      {
+        "rank": 83,
+        "title": "坦克神兵",
+        "app_id": 714103,
+        "company": "星辰大海工作室",
+        "reserve": 1088,
+        "score": "9.1"
+      },
+      {
+        "rank": 84,
+        "title": "中医模拟器",
+        "app_id": 929950,
+        "company": "时迹网络",
+        "reserve": 197,
+        "score": "0"
+      },
+      {
+        "rank": 85,
+        "title": "九万亩",
+        "app_id": 715863,
+        "company": "两英里科技",
+        "reserve": 13356,
+        "score": "9.0"
+      },
+      {
+        "rank": 86,
+        "title": "幻兽帕鲁世界",
+        "app_id": 899001,
+        "company": "新闻消息",
+        "reserve": 37618,
+        "score": "7.6"
+      },
+      {
+        "rank": 87,
+        "title": "失落城堡2",
+        "app_id": 711779,
+        "company": "雷霆游戏",
+        "reserve": 505732,
+        "score": "8.4"
+      },
+      {
+        "rank": 88,
+        "title": "饥困荒野",
+        "app_id": 194039,
+        "company": "腾讯",
+        "reserve": 2363753,
+        "score": "6.9"
+      },
+      {
+        "rank": 89,
+        "title": "110接警指挥中心",
+        "app_id": 927378,
+        "company": "旋冈工作室",
+        "reserve": 860,
+        "score": "0"
+      },
+      {
+        "rank": 90,
+        "title": "五星好市民",
+        "app_id": 752366,
+        "company": "十个美梦工作室",
+        "reserve": 804152,
+        "score": "7.7"
+      },
+      {
+        "rank": 91,
+        "title": "梦战：剑之海",
+        "app_id": 880659,
+        "company": "紫龙游戏",
+        "reserve": 154012,
+        "score": "8.8"
+      },
+      {
+        "rank": 92,
+        "title": "FAREIDOLIA",
+        "app_id": 800302,
+        "company": "新闻消息",
+        "reserve": 124236,
+        "score": "8.9"
+      },
+      {
+        "rank": 93,
+        "title": "幻想九霄",
+        "app_id": 849399,
+        "company": "幻想九霄工作室",
+        "reserve": 68893,
+        "score": "8.7"
+      },
+      {
+        "rank": 94,
+        "title": "我叫MT：崛起",
+        "app_id": 903352,
+        "company": "兔飞梦鲸工作室",
+        "reserve": 7419,
+        "score": "8.5"
+      },
+      {
+        "rank": 95,
+        "title": "DeathPlunder亡命掠夺者",
+        "app_id": 839915,
+        "company": "FourOneGames工作室",
+        "reserve": 84895,
+        "score": "9.4"
+      },
+      {
+        "rank": 96,
+        "title": "彩虹六号",
+        "app_id": 726271,
+        "company": "腾讯",
+        "reserve": 267791,
+        "score": "8.1"
+      },
+      {
+        "rank": 97,
+        "title": "代号莲",
+        "app_id": 809354,
+        "company": "隐隐山工作室",
+        "reserve": 399795,
+        "score": "9.3"
+      },
+      {
+        "rank": 98,
+        "title": "乌托",
+        "app_id": 773812,
+        "company": "乌宝工作室",
+        "reserve": 280742,
+        "score": "8.3"
+      },
+      {
+        "rank": 99,
+        "title": "凯蒂猫梦想商店",
+        "app_id": 789293,
+        "company": "苏州沁游网络科技有限公司",
+        "reserve": 1110145,
+        "score": "9.4"
+      },
+      {
+        "rank": 100,
+        "title": "宝可梦 冠军",
+        "app_id": 744558,
+        "company": "Game Freak",
+        "reserve": 443801,
+        "score": "8.4"
+      },
+      {
+        "rank": 101,
+        "title": "奶茶店模拟器 - 重生之我在冰堡甜城当店长",
+        "app_id": 779303,
+        "company": "财可咪工作室",
+        "reserve": 251703,
+        "score": "7.1"
+      },
+      {
+        "rank": 102,
+        "title": "无限谷",
+        "app_id": 792727,
+        "company": "上海阿培伦网络科技有限公司",
+        "reserve": 81319,
+        "score": "8.9"
+      },
+      {
+        "rank": 103,
+        "title": "萌宠拆拆乐",
+        "app_id": 224883,
+        "company": "液态喵游戏",
+        "reserve": 26341,
+        "score": "8.4"
+      },
+      {
+        "rank": 104,
+        "title": "斗罗大陆：诛邪传说",
+        "app_id": 716327,
+        "company": "斗罗诛邪工作室",
+        "reserve": 479571,
+        "score": "8.4"
+      },
+      {
+        "rank": 105,
+        "title": "龙族：最后的旅行",
+        "app_id": 769559,
+        "company": "Zerocreation",
+        "reserve": 70894,
+        "score": "8.1"
+      },
+      {
+        "rank": 106,
+        "title": "魔界勇者",
+        "app_id": 640277,
+        "company": "轩玩网络",
+        "reserve": 4315,
+        "score": "9.4"
+      },
+      {
+        "rank": 107,
+        "title": "警戒线：全面冲突",
+        "app_id": 850027,
+        "company": "玄鑫工作室",
+        "reserve": 29587,
+        "score": "8.6"
+      },
+      {
+        "rank": 108,
+        "title": "破烂水手",
+        "app_id": 744422,
+        "company": "十英工作室",
+        "reserve": 98345,
+        "score": "8.5"
+      },
+      {
+        "rank": 109,
+        "title": "只有我看见的世界",
+        "app_id": 814605,
+        "company": "Liminis Studio",
+        "reserve": 25760,
+        "score": "9.3"
+      },
+      {
+        "rank": 110,
+        "title": "蜡笔小新之小帮手大作战",
+        "app_id": 724400,
+        "company": "neos",
+        "reserve": 2273648,
+        "score": "7.9"
+      },
+      {
+        "rank": 111,
+        "title": "猫娘计划",
+        "app_id": 881696,
+        "company": "猫娘计划工作室",
+        "reserve": 16618,
+        "score": "10"
+      },
+      {
+        "rank": 112,
+        "title": "雾海之下",
+        "app_id": 894881,
+        "company": "网易游戏",
+        "reserve": 208425,
+        "score": "9.3"
+      },
+      {
+        "rank": 113,
+        "title": "怪物猎人：旅人",
+        "app_id": 243984,
+        "company": "腾讯",
+        "reserve": 510213,
+        "score": "7.2"
+      },
+      {
+        "rank": 114,
+        "title": "水银疗养院",
+        "app_id": 758860,
+        "company": "Wise Games",
+        "reserve": 58007,
+        "score": "9.6"
+      },
+      {
+        "rank": 115,
+        "title": "仙姬剑",
+        "app_id": 920029,
+        "company": "晁晞游戏工作室",
+        "reserve": 341,
+        "score": "10"
+      },
+      {
+        "rank": 116,
+        "title": "料理人班乔",
+        "app_id": 864393,
+        "company": "心动",
+        "reserve": 133288,
+        "score": "9.3"
+      },
+      {
+        "rank": 117,
+        "title": "我叫MT：荣耀护卫队",
+        "app_id": 922338,
+        "company": "磐石工作室RogueRock",
+        "reserve": 969,
+        "score": "7.8"
+      },
+      {
+        "rank": 118,
+        "title": "剑侠世界4：无限",
+        "app_id": 762823,
+        "company": "西山居游戏",
+        "reserve": 48753,
+        "score": "6.8"
+      },
+      {
+        "rank": 119,
+        "title": "小垠的秘密",
+        "app_id": 863883,
+        "company": "鹰目科技",
+        "reserve": 51906,
+        "score": "9.4"
+      },
+      {
+        "rank": 120,
+        "title": "圣歌德嘉的挽歌",
+        "app_id": 824786,
+        "company": "二律背反",
+        "reserve": 32643,
+        "score": "9.6"
+      },
+      {
+        "rank": 121,
+        "title": "这是谐音梗",
+        "app_id": 802533,
+        "company": "盏灯工作室",
+        "reserve": 142972,
+        "score": "9.3"
+      },
+      {
+        "rank": 122,
+        "title": "妹居物语",
+        "app_id": 782330,
+        "company": "彩奈",
+        "reserve": 604300,
+        "score": "9.5"
+      },
+      {
+        "rank": 123,
+        "title": "少女前线：蓝蝶契约",
+        "app_id": 851753,
+        "company": "Sunborn",
+        "reserve": 79655,
+        "score": "7.9"
+      },
+      {
+        "rank": 124,
+        "title": "代号：Lovania",
+        "app_id": 775302,
+        "company": "沐瞳",
+        "reserve": 493345,
+        "score": "9.4"
+      },
+      {
+        "rank": 125,
+        "title": "地下城：勇士传说",
+        "app_id": 904500,
+        "company": "闪光传说工作室",
+        "reserve": 8362,
+        "score": "8.6"
+      },
+      {
+        "rank": 126,
+        "title": "方舟：生存进化",
+        "app_id": 133568,
+        "company": "蜗牛游戏",
+        "reserve": 4042271,
+        "score": "7.6"
+      },
+      {
+        "rank": 127,
+        "title": "纤维",
+        "app_id": 833213,
+        "company": "冬日煮米游戏制作组",
+        "reserve": 102887,
+        "score": "9.5"
+      },
+      {
+        "rank": 128,
+        "title": "幻梦无年",
+        "app_id": 755187,
+        "company": "成都嘉谊互娱科技有限公司",
+        "reserve": 82618,
+        "score": "9.1"
+      },
+      {
+        "rank": 129,
+        "title": "拉尼亚（TapTap测试版）",
+        "app_id": 836285,
+        "company": "广州鬼马网络有限公司",
+        "reserve": 48383,
+        "score": "9.6"
+      },
+      {
+        "rank": 130,
+        "title": "辉光之城1907",
+        "app_id": 832010,
+        "company": "薄雾集",
+        "reserve": 82372,
+        "score": "7.0"
+      },
+      {
+        "rank": 131,
+        "title": "行星远征",
+        "app_id": 896216,
+        "company": "超爽割草工作室",
+        "reserve": 4624,
+        "score": "8.7"
+      },
+      {
+        "rank": 132,
+        "title": "代号：8",
+        "app_id": 924462,
+        "company": "北落师门",
+        "reserve": 1928,
+        "score": "9.6"
+      },
+      {
+        "rank": 133,
+        "title": "王国保卫战6",
+        "app_id": 892823,
+        "company": "东品游戏",
+        "reserve": 14077,
+        "score": "5.6"
+      },
+      {
+        "rank": 134,
+        "title": "另一个人生",
+        "app_id": 913996,
+        "company": "非凡多比工作室",
+        "reserve": 1024,
+        "score": "0"
+      },
+      {
+        "rank": 135,
+        "title": "江湖夜雨十年灯",
+        "app_id": 757239,
+        "company": "神经虾开发组",
+        "reserve": 47321,
+        "score": "9.0"
+      },
+      {
+        "rank": 136,
+        "title": "变形金刚：新纪元",
+        "app_id": 901325,
+        "company": "Wanda Game",
+        "reserve": 87143,
+        "score": "8.5"
+      },
+      {
+        "rank": 137,
+        "title": "别对童话说晚安",
+        "app_id": 924266,
+        "company": "西出工作室",
+        "reserve": 806,
+        "score": "10"
+      },
+      {
+        "rank": 138,
+        "title": "荒野大镖客：救赎",
+        "app_id": 789815,
+        "company": "新闻消息",
+        "reserve": 474758,
+        "score": "8.4"
+      },
+      {
+        "rank": 139,
+        "title": "纸房子",
+        "app_id": 776263,
+        "company": "开心茶房",
+        "reserve": 260972,
+        "score": "8.6"
+      },
+      {
+        "rank": 140,
+        "title": "PuffPals: Island Skies",
+        "app_id": 233809,
+        "company": "Fluffnest",
+        "reserve": 1198891,
+        "score": "9.0"
+      },
+      {
+        "rank": 141,
+        "title": "芯片大亨",
+        "app_id": 799682,
+        "company": "搬砖猫工作室",
+        "reserve": 43412,
+        "score": "8.6"
+      },
+      {
+        "rank": 142,
+        "title": "逸剑风云决",
+        "app_id": 752648,
+        "company": "艺画游",
+        "reserve": 256881,
+        "score": "9.2"
+      },
+      {
+        "rank": 143,
+        "title": "弹壳战机",
+        "app_id": 918210,
+        "company": "猩球游戏",
+        "reserve": 1270,
+        "score": "7.7"
+      },
+      {
+        "rank": 144,
+        "title": "大巴扎",
+        "app_id": 902574,
+        "company": "新闻消息",
+        "reserve": 7605,
+        "score": "9.6"
+      },
+      {
+        "rank": 145,
+        "title": "BanG Dream! Our Notes",
+        "app_id": 808443,
+        "company": "新闻消息",
+        "reserve": 131326,
+        "score": "5.8"
+      },
+      {
+        "rank": 146,
+        "title": "可露优世界",
+        "app_id": 856059,
+        "company": "福州市跃次元网络科技有限公司的工作室",
+        "reserve": 8031,
+        "score": "9.5"
+      },
+      {
+        "rank": 147,
+        "title": "维修物语 (ReStory)",
+        "app_id": 864118,
+        "company": "LongRiver Games的工作室",
+        "reserve": 1675,
+        "score": "0"
+      },
+      {
+        "rank": 148,
+        "title": "全民萌兽",
+        "app_id": 784555,
+        "company": "胜酷游戏",
+        "reserve": 3458,
+        "score": "9.4"
+      },
+      {
+        "rank": 149,
+        "title": "冰河大冒险",
+        "app_id": 878531,
+        "company": "厦门炉火网络科技有限公司",
+        "reserve": 179,
+        "score": "0"
+      },
+      {
+        "rank": 150,
+        "title": "未来之役",
+        "app_id": 207433,
+        "company": "KRAFTON, Inc.",
+        "reserve": 5314921,
+        "score": "8.3"
+      }
+    ],
+    "new": [
+      {
+        "rank": 1,
+        "title": "王者万象棋",
+        "app_id": 243110,
+        "company": "腾讯",
+        "reserve": null,
+        "score": "6.7"
+      },
+      {
+        "rank": 2,
+        "title": "塔塔冒险队",
+        "app_id": 866257,
+        "company": "莉莉丝游戏",
+        "reserve": null,
+        "score": "5.7"
+      },
+      {
+        "rank": 3,
+        "title": "军旅",
+        "app_id": 921865,
+        "company": "KKV的工作室",
+        "reserve": null,
+        "score": "7.6"
+      },
+      {
+        "rank": 4,
+        "title": "我在园区搜打撤",
+        "app_id": 804298,
+        "company": "时迹网络",
+        "reserve": null,
+        "score": "7.5"
+      },
+      {
+        "rank": 5,
+        "title": "梦幻新诛仙：轻享",
+        "app_id": 820664,
+        "company": "完美世界游戏",
+        "reserve": null,
+        "score": "6.3"
+      },
+      {
+        "rank": 6,
+        "title": "打造国际都市",
+        "app_id": 922296,
+        "company": "算星汇河",
+        "reserve": null,
+        "score": "8.6"
+      },
+      {
+        "rank": 7,
+        "title": "灵武世界",
+        "app_id": 845759,
+        "company": "晴空游戏工作室",
+        "reserve": null,
+        "score": "7.9"
+      },
+      {
+        "rank": 8,
+        "title": "仙逆：本尊",
+        "app_id": 892775,
+        "company": "智玩游戏工作室",
+        "reserve": null,
+        "score": "6.9"
+      },
+      {
+        "rank": 9,
+        "title": "奖来：彩票中了7000万之后的人生启动！",
+        "app_id": 911108,
+        "company": "WSL的工作室",
+        "reserve": null,
+        "score": "7.9"
+      },
+      {
+        "rank": 10,
+        "title": "黑历史：献帝",
+        "app_id": 875411,
+        "company": "炮灰团",
+        "reserve": null,
+        "score": "6.9"
+      },
+      {
+        "rank": 11,
+        "title": "财富磨坊",
+        "app_id": 922540,
+        "company": "印弨工作室",
+        "reserve": null,
+        "score": "8.9"
+      },
+      {
+        "rank": 12,
+        "title": "梦回甄嬛传",
+        "app_id": 900993,
+        "company": "墨麒麟工作室",
+        "reserve": null,
+        "score": "7.4"
+      },
+      {
+        "rank": 13,
+        "title": "养娃模拟器",
+        "app_id": 894304,
+        "company": "云墟仙途工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 14,
+        "title": "TOKEN",
+        "app_id": 921603,
+        "company": "一昂工作室",
+        "reserve": null,
+        "score": "8.2"
+      },
+      {
+        "rank": 15,
+        "title": "模拟消防指挥中心",
+        "app_id": 920389,
+        "company": "超临界工作室",
+        "reserve": null,
+        "score": "0"
+      },
+      {
+        "rank": 16,
+        "title": "修仙门派2",
+        "app_id": 919513,
+        "company": "漫天星",
+        "reserve": null,
+        "score": "9.2"
+      },
+      {
+        "rank": 17,
+        "title": "落叶清理",
+        "app_id": 910054,
+        "company": "渡鸟工作室",
+        "reserve": null,
+        "score": "7.8"
+      },
+      {
+        "rank": 18,
+        "title": "回到大荒",
+        "app_id": 883308,
+        "company": "光年切片工作室",
+        "reserve": null,
+        "score": "8.0"
+      },
+      {
+        "rank": 19,
+        "title": "小偷公司",
+        "app_id": 883589,
+        "company": "超神网络",
+        "reserve": null,
+        "score": "6.9"
+      },
+      {
+        "rank": 20,
+        "title": "心动的公寓",
+        "app_id": 928422,
+        "company": "珊珊的工作室3",
+        "reserve": null,
+        "score": "8.7"
+      },
+      {
+        "rank": 21,
+        "title": "明末：从流民小兵开始无双",
+        "app_id": 919765,
+        "company": "天策万想工作室",
+        "reserve": null,
+        "score": "8.5"
+      },
+      {
+        "rank": 22,
+        "title": "全球异变：我猎食基因成神",
+        "app_id": 922234,
+        "company": "骰子游戏",
+        "reserve": null,
+        "score": "7.8"
+      },
+      {
+        "rank": 23,
+        "title": "重启人生",
+        "app_id": 917097,
+        "company": "无趣工作室",
+        "reserve": null,
+        "score": "7.5"
+      },
+      {
+        "rank": 24,
+        "title": "色彩大师",
+        "app_id": 925102,
+        "company": "尼奥巴兰",
+        "reserve": null,
+        "score": "9.4"
+      },
+      {
+        "rank": 25,
+        "title": "我打怪升级捡垃圾",
+        "app_id": 909134,
+        "company": "老鸽游戏",
+        "reserve": null,
+        "score": "7.6"
+      },
+      {
+        "rank": 26,
+        "title": "生态瓶日记",
+        "app_id": 921634,
+        "company": "漫途蜗牛的工作室",
+        "reserve": null,
+        "score": "6.1"
+      },
+      {
+        "rank": 27,
+        "title": "你的心理年龄多少岁",
+        "app_id": 920530,
+        "company": "在于工作室",
+        "reserve": null,
+        "score": "9.7"
+      },
+      {
+        "rank": 28,
+        "title": "卧龙无敌",
+        "app_id": 774146,
+        "company": "正经三国志工作室",
+        "reserve": null,
+        "score": "8.0"
+      },
+      {
+        "rank": 29,
+        "title": "正中靶心2",
+        "app_id": 822532,
+        "company": "开新游戏",
+        "reserve": null,
+        "score": "4.4"
+      },
+      {
+        "rank": 30,
+        "title": "最后的避难所",
+        "app_id": 921419,
+        "company": "掌间游科技有限公司",
+        "reserve": null,
+        "score": "7.1"
+      },
+      {
+        "rank": 31,
+        "title": "萌萌地下城：属性叠属性",
+        "app_id": 896631,
+        "company": "史莱姆球工作室",
+        "reserve": null,
+        "score": "8.6"
+      },
+      {
+        "rank": 32,
+        "title": "诡域摸金：我有一间古董屋",
+        "app_id": 921116,
+        "company": "天策万想工作室",
+        "reserve": null,
+        "score": "9.2"
+      },
+      {
+        "rank": 33,
+        "title": "增量炸山矿",
+        "app_id": 921910,
+        "company": "孤独ベ成瘾的工作室",
+        "reserve": null,
+        "score": "5.4"
+      },
+      {
+        "rank": 34,
+        "title": "冠军之心：篮球生涯",
+        "app_id": 926935,
+        "company": "松海听风工作室",
+        "reserve": null,
+        "score": "8.5"
+      },
+      {
+        "rank": 35,
+        "title": "打造全球快递",
+        "app_id": 925311,
+        "company": "幻算界限",
+        "reserve": null,
+        "score": "7.1"
+      },
+      {
+        "rank": 36,
+        "title": "世界大战战场模拟器",
+        "app_id": 920577,
+        "company": "已砸糖",
+        "reserve": null,
+        "score": "0"
+      },
+      {
+        "rank": 37,
+        "title": "开个龙虾馆",
+        "app_id": 899665,
+        "company": "纪石科技",
+        "reserve": null,
+        "score": "8.5"
+      },
+      {
+        "rank": 38,
+        "title": "趣味打字训练营",
+        "app_id": 923482,
+        "company": "玩游戏的小风酱的工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 39,
+        "title": "我的篮坛生涯",
+        "app_id": 915810,
+        "company": "人间观察者工作室",
+        "reserve": null,
+        "score": "6.3"
+      },
+      {
+        "rank": 40,
+        "title": "911调度员",
+        "app_id": 923464,
+        "company": "K7工作室",
+        "reserve": null,
+        "score": "6.3"
+      },
+      {
+        "rank": 41,
+        "title": "金牌月嫂路",
+        "app_id": 922422,
+        "company": "木头人的工作室",
+        "reserve": null,
+        "score": "7.7"
+      },
+      {
+        "rank": 42,
+        "title": "翻来翻去",
+        "app_id": 921604,
+        "company": "用心创造快乐工作室",
+        "reserve": null,
+        "score": "8.2"
+      },
+      {
+        "rank": 43,
+        "title": "设身处地：城南旧货模拟器",
+        "app_id": 919643,
+        "company": "创熊游戏工作室",
+        "reserve": null,
+        "score": "6.7"
+      },
+      {
+        "rank": 44,
+        "title": "宗门世家",
+        "app_id": 920848,
+        "company": "。。。的工作室82",
+        "reserve": null,
+        "score": "8.6"
+      },
+      {
+        "rank": 45,
+        "title": "重制十七岁",
+        "app_id": 887871,
+        "company": "熵联天创",
+        "reserve": null,
+        "score": "9.2"
+      },
+      {
+        "rank": 46,
+        "title": "余烬幸存者",
+        "app_id": 909304,
+        "company": "猪猪吃汉堡",
+        "reserve": null,
+        "score": "9.1"
+      },
+      {
+        "rank": 47,
+        "title": "Kiss And Cry：我的女友脑子有问题",
+        "app_id": 795303,
+        "company": "心向制作组",
+        "reserve": null,
+        "score": "9.0"
+      },
+      {
+        "rank": 48,
+        "title": "你内心深处的腹黑人格",
+        "app_id": 921319,
+        "company": "在于工作室",
+        "reserve": null,
+        "score": "9.1"
+      },
+      {
+        "rank": 49,
+        "title": "猎海航路",
+        "app_id": 898455,
+        "company": "夏风工作室",
+        "reserve": null,
+        "score": "9.7"
+      },
+      {
+        "rank": 50,
+        "title": "重生08年：豆宝成了我的外挂",
+        "app_id": 926395,
+        "company": "聚光灯 - 燃石工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 51,
+        "title": "逐城而战",
+        "app_id": 929233,
+        "company": "大爱天地一家盟工作室",
+        "reserve": null,
+        "score": "7.6"
+      },
+      {
+        "rank": 52,
+        "title": "大三国",
+        "app_id": 910759,
+        "company": "叶下桃游戏工作室",
+        "reserve": null,
+        "score": "9.8"
+      },
+      {
+        "rank": 53,
+        "title": "我才是篮球之神",
+        "app_id": 919322,
+        "company": "连海平",
+        "reserve": null,
+        "score": "8.2"
+      },
+      {
+        "rank": 54,
+        "title": "乱世名将",
+        "app_id": 792136,
+        "company": "小奇怪游戏室",
+        "reserve": null,
+        "score": "9.5"
+      },
+      {
+        "rank": 55,
+        "title": "校长我来当2",
+        "app_id": 925339,
+        "company": "流苏水寒工作室",
+        "reserve": null,
+        "score": "8.7"
+      },
+      {
+        "rank": 56,
+        "title": "货运管控模拟器",
+        "app_id": 926036,
+        "company": "LUX的工作室",
+        "reserve": null,
+        "score": "0"
+      },
+      {
+        "rank": 57,
+        "title": "油画镇",
+        "app_id": 921589,
+        "company": "andoop ๑҉的工作室",
+        "reserve": null,
+        "score": "6.9"
+      },
+      {
+        "rank": 58,
+        "title": "开了家西西陪玩店",
+        "app_id": 914339,
+        "company": "游戏王的工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 59,
+        "title": "海上囤货求生：我的海上安全屋",
+        "app_id": 922405,
+        "company": "年年有余工作室",
+        "reserve": null,
+        "score": "8.0"
+      },
+      {
+        "rank": 60,
+        "title": "我在古代当皇帝",
+        "app_id": 925177,
+        "company": "君红月",
+        "reserve": null,
+        "score": "7.8"
+      },
+      {
+        "rank": 61,
+        "title": "财富自由模拟器W",
+        "app_id": 918235,
+        "company": "游戏的人",
+        "reserve": null,
+        "score": "7.8"
+      },
+      {
+        "rank": 62,
+        "title": "异乡生存日记",
+        "app_id": 920015,
+        "company": "年年有余工作室",
+        "reserve": null,
+        "score": "8.0"
+      },
+      {
+        "rank": 63,
+        "title": "波鞋鉴定师",
+        "app_id": 918514,
+        "company": "后撤步游戏",
+        "reserve": null,
+        "score": "8.7"
+      },
+      {
+        "rank": 64,
+        "title": "诸天魔头交流群",
+        "app_id": 919416,
+        "company": "虚环之璃工作室",
+        "reserve": null,
+        "score": "9.0"
+      },
+      {
+        "rank": 65,
+        "title": "那年我接手了老妈的小饭馆",
+        "app_id": 925462,
+        "company": "元代码游戏",
+        "reserve": null,
+        "score": "6.5"
+      },
+      {
+        "rank": 66,
+        "title": "激战突围2",
+        "app_id": 843277,
+        "company": "深圳市柒星游科技有限公司",
+        "reserve": null,
+        "score": "3.2"
+      },
+      {
+        "rank": 67,
+        "title": "成都黑心养鸡二厂",
+        "app_id": 923564,
+        "company": "晴天小猪的工作室",
+        "reserve": null,
+        "score": "9.2"
+      },
+      {
+        "rank": 68,
+        "title": "何为江湖",
+        "app_id": 920081,
+        "company": "白夜残月工作室",
+        "reserve": null,
+        "score": "9.1"
+      },
+      {
+        "rank": 69,
+        "title": "你最像哪位历史人物",
+        "app_id": 918962,
+        "company": "在于工作室",
+        "reserve": null,
+        "score": "8.4"
+      },
+      {
+        "rank": 70,
+        "title": "伐木工模拟器",
+        "app_id": 919444,
+        "company": "肥羊游戏工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 71,
+        "title": "元素放置打砖块",
+        "app_id": 866828,
+        "company": "栗子游戏",
+        "reserve": null,
+        "score": "9.1"
+      },
+      {
+        "rank": 72,
+        "title": "捡金币大师",
+        "app_id": 927049,
+        "company": "小洵工作室",
+        "reserve": null,
+        "score": "6.8"
+      },
+      {
+        "rank": 73,
+        "title": "谜汤海龟汤",
+        "app_id": 919705,
+        "company": "五河琴里的工作室",
+        "reserve": null,
+        "score": "8.6"
+      },
+      {
+        "rank": 74,
+        "title": "从零开始创业",
+        "app_id": 926030,
+        "company": "孤独gd的工作室",
+        "reserve": null,
+        "score": "8.8"
+      },
+      {
+        "rank": 75,
+        "title": "网约车司机模拟器",
+        "app_id": 922514,
+        "company": "ZOCUHER的工作室",
+        "reserve": null,
+        "score": "7.3"
+      },
+      {
+        "rank": 76,
+        "title": "目标是百级成神",
+        "app_id": 926420,
+        "company": "浮云生墨",
+        "reserve": null,
+        "score": "7.0"
+      }
+    ]
+  },
+  "totals": {
+    "reserve": 150,
+    "new": 76
+  }
+}
